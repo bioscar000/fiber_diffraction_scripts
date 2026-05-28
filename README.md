@@ -133,7 +133,7 @@ This project is licensed under the MIT License.
 If you use this code, please cite:
 
 ```
-Fernández Blanco, Ó. (2026)  
+Fernández, Ó. (2026)  
 Fiber diffraction analysis pipeline  
 DOI: [to be added after Zenodo deposition]
 ```
