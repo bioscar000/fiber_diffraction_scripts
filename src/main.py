@@ -82,7 +82,7 @@ def process_dataset(root_path: Path):
                     print(f"Sample Batch: {sample_batch}")
 
                     avg_sample = calculate_avg_image(sample_batch)
-                    avg_processed_sample = avg_sample: avg_buffer
+                    avg_processed_sample = avg_sample - avg_buffer
 
                     save_difractogram(
                         avg_processed_sample,
