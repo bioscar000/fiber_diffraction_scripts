@@ -135,7 +135,7 @@ If you use this code, please cite:
 ```
 Fernández, Ó. (2026)  
 Fiber diffraction analysis pipeline  
-DOI: [to be added after Zenodo deposition]
+https://doi.org/10.5281/zenodo.20434248
 ```
 
 ---
