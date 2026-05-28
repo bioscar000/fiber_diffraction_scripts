@@ -17,8 +17,8 @@ The implementation is tailored to specific experimental datasets and beamtime co
 
 ## Authors
 
-- **Óscar Fernández Blanco** – Code development  
-- **Rebeca París Ogayar** – Data analysis and application (PhD thesis)
+- **Óscar Fernández Blanco** – Development of the analysis pipeline, data processing, and physical modeling.
+- **Rebeca París Ogayar** – Design and development of the experimental probes, sample optimization, and synchrotron data acquisition (PhD thesis).
 
 ---
 
