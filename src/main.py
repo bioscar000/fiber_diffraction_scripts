@@ -35,7 +35,7 @@ from utils.equatorial_rebe import calculate_equatorial_parameters
 from utils.meridional import calculate_meridional_parameters
 from utils.peaks_equatorial import calculate_peaks_parameters
 # Plotting utilities
-from plotter.plot_utils import save_difractogram, save_profiles
+from plotter.generate_outputs import save_difractogram, save_profiles
 
 
 def process_dataset(root_path: Path):
